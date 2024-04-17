@@ -8,7 +8,6 @@
 .page-container .page-main-content {
   position: relative;
   box-sizing: border-box;
-  padding-top: $header-height;
 keep-tablet()
 keep-mobile()
 }
