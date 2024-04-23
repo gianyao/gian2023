@@ -482,11 +482,6 @@ button {
   background: var(--background-color-1);
   border-radius: 5px;
   cursor: pointer;
-  box-shadow: 2px 2px 5px var(--shadow-color);
-  transition-delay: 0s, 0s, 0s, 0s, 0s;
-  transition-timing-function: ease, ease, ease, ease, linear;
-  transition-duration: 0.2s, 0.2s, 0.2s, 0.2s, 0.2s;
-  transition-property: color, background, box-shadow, border-color, transform;
 }
 .btn:hover {
   color: var(--background-color-1);
