@@ -2795,17 +2795,6 @@ pre .javascript .function {
   padding: 28px;
   background: var(--content-background-color);
   border-radius: 0.4rem;
-  margin-bottom: 38px;
-}
-@media (max-width: 800px) {
-  .home-content-container .home-article-list .home-article-item {
-    margin-bottom: 30.400000000000002px;
-  }
-}
-@media (max-width: 500px) {
-  .home-content-container .home-article-list .home-article-item {
-    margin-bottom: 22.8px;
-  }
 }
 @media (max-width: 800px) {
   .home-content-container .home-article-list .home-article-item {
