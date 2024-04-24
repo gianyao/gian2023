@@ -664,53 +664,53 @@ button {
 }
 .keep-markdown-body h1 {
   font-weight: 600;
-  font-size: 1.8rem;
+  font-size: 1.6rem;
 }
 @media (max-width: 800px) {
   .keep-markdown-body h1 {
-    font-size: 1.7rem;
+    font-size: 1.5rem;
   }
 }
 .keep-markdown-body h2 {
   font-weight: 600;
-  font-size: 1.7rem;
+  font-size: 1.4rem;
 }
 @media (max-width: 800px) {
   .keep-markdown-body h2 {
-    font-size: 1.6rem;
+    font-size: 1.3rem;
   }
 }
 .keep-markdown-body h3 {
   font-weight: 550;
-  font-size: 1.6rem;
+  font-size: 1.3rem;
 }
 @media (max-width: 800px) {
   .keep-markdown-body h3 {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
   }
 }
 .keep-markdown-body h4 {
   font-weight: 550;
-  font-size: 1.5rem;
+  font-size: 1.26rem;
 }
 @media (max-width: 800px) {
   .keep-markdown-body h4 {
-    font-size: 1.4rem;
+    font-size: 1.1rem;
   }
 }
 .keep-markdown-body h5 {
   font-weight: 500;
-  font-size: 1.28rem;
+  font-size: 1.2rem;
 }
 @media (max-width: 800px) {
   .keep-markdown-body h5 {
-    font-size: 1.18rem;
+    font-size: 1.16rem;
   }
 }
 .keep-markdown-body h6 {
   font-weight: 500;
-  font-size: 1.2rem;
-  line-height: 1.2;
+  font-size: 1.1rem;
+  line-height: 1.1;
 }
 @media (max-width: 800px) {
   .keep-markdown-body h6 {
