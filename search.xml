@@ -1,26 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2023/05/21/hello-world/</url>
-    <content><![CDATA[<p>进程守护管理插件未安装或相关依赖未成功安装，请按以下方式排查：<br>1、进程守护管理器插件是否安装<br>2、&#x2F;www&#x2F;server&#x2F;panel&#x2F;plugin&#x2F;supervisor&#x2F;supervisor_main.py文件是否存在<br>3、&#x2F;www&#x2F;server&#x2F;panel&#x2F;pyenv&#x2F;bin&#x2F;supervisorctl文件是否存在</p>
-<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo<i class="fas fa-external-link-alt"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation<i class="fas fa-external-link-alt"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting<i class="fas fa-external-link-alt"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub<i class="fas fa-external-link-alt"></i></a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing<i class="fas fa-external-link-alt"></i></a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server<i class="fas fa-external-link-alt"></i></a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating<i class="fas fa-external-link-alt"></i></a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment<i class="fas fa-external-link-alt"></i></a></p>
-<p>长安启源Q05驾驶指南<br><a class="link"   href="http://sim.changan.com.cn:9000/um/manual/CAOM346471/#/CAOM346471" >http://sim.changan.com.cn:9000/um/manual/CAOM346471/?#/CAOM346471<i class="fas fa-external-link-alt"></i></a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>30天Excel技能学习计划</title>
     <url>/2024/04/11/Excel/</url>
     <content><![CDATA[<p>很高兴你决定提升Excel技能！以下是一个为初学者和进阶学习者定制的30天Excel学习计划，旨在帮助你逐步掌握关键技能，并在每天的学习中取得实际进展。</p>
@@ -58,6 +38,94 @@
 ]]></content>
   </entry>
   <entry>
+    <title>Hello World</title>
+    <url>/2023/05/21/hello-world/</url>
+    <content><![CDATA[<p>进程守护管理插件未安装或相关依赖未成功安装，请按以下方式排查：<br>1、进程守护管理器插件是否安装<br>2、&#x2F;www&#x2F;server&#x2F;panel&#x2F;plugin&#x2F;supervisor&#x2F;supervisor_main.py文件是否存在<br>3、&#x2F;www&#x2F;server&#x2F;panel&#x2F;pyenv&#x2F;bin&#x2F;supervisorctl文件是否存在</p>
+<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo<i class="fas fa-external-link-alt"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation<i class="fas fa-external-link-alt"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting<i class="fas fa-external-link-alt"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub<i class="fas fa-external-link-alt"></i></a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing<i class="fas fa-external-link-alt"></i></a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server<i class="fas fa-external-link-alt"></i></a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating<i class="fas fa-external-link-alt"></i></a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment<i class="fas fa-external-link-alt"></i></a></p>
+<p>长安启源Q05驾驶指南<br><a class="link"   href="http://sim.changan.com.cn:9000/um/manual/CAOM346471/#/CAOM346471" >http://sim.changan.com.cn:9000/um/manual/CAOM346471/?#/CAOM346471<i class="fas fa-external-link-alt"></i></a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>给果果的鼓励信</title>
+    <url>/2024/07/15/guoguo/</url>
+    <content><![CDATA[<h1 id="给果果的鼓励信"><a href="#给果果的鼓励信" class="headerlink" title="给果果的鼓励信"></a>给果果的鼓励信</h1><p>亲爱的果果，</p>
+<p>你好！</p>
+<p>首先，爸爸妈妈要为你取得的成绩感到骄傲。你一直以来的努力和付出，我们都看在眼里。虽然这次考试的成绩还不算顶尖，但你已经表现得很好了。我们知道，每一次的进步和每一次的努力，都是值得肯定的。</p>
+<p>为了帮助你更好地了解自己的成绩和下一步的方向，我们做了一个详细的成绩分析报告，希望能对你有所帮助。</p>
+<h2 id="成绩分析报告"><a href="#成绩分析报告" class="headerlink" title="成绩分析报告"></a>成绩分析报告</h2><h3 id="一、总体情况"><a href="#一、总体情况" class="headerlink" title="一、总体情况"></a>一、总体情况</h3><p>根据你的最新成绩单，以下是你的成绩情况：</p>
+<ul>
+<li>总分：476分（加权后）</li>
+<li>全市排名：23107名</li>
+<li>本校排名：127名</li>
+<li>本班排名：127名</li>
+</ul>
+<p>未加权前的总分为460分：</p>
+<ul>
+<li>全市排名：22818名</li>
+<li>本校排名：120名</li>
+<li>本班排名：120名</li>
+</ul>
+<h3 id="二、分数线对比"><a href="#二、分数线对比" class="headerlink" title="二、分数线对比"></a>二、分数线对比</h3><ul>
+<li>特殊类分数：445分</li>
+<li>本科批分数：358分</li>
+<li>总分平均分：421.2分</li>
+<li>总分最高分：693.5分</li>
+</ul>
+<p>你的最新成绩476分显著高于特殊类分数线445分和平均分421.2分。</p>
+<h3 id="三、优势与不足"><a href="#三、优势与不足" class="headerlink" title="三、优势与不足"></a>三、优势与不足</h3><h4 id="1-优势："><a href="#1-优势：" class="headerlink" title="1. 优势："></a>1. 优势：</h4><ul>
+<li>成绩显著高于总分平均分421.2分，说明基础较为扎实。</li>
+<li>在全市排名中位于前列，具备较强的竞争力。</li>
+</ul>
+<h4 id="2-不足："><a href="#2-不足：" class="headerlink" title="2. 不足："></a>2. 不足：</h4><ul>
+<li>在班级和学校中的排名仍有提升空间，尤其是在校内排名。</li>
+</ul>
+<h3 id="四、建议与计划"><a href="#四、建议与计划" class="headerlink" title="四、建议与计划"></a>四、建议与计划</h3><p>为了帮助你在接下来的学习中进一步提升成绩，以下是一些建议：</p>
+<h4 id="1-查漏补缺："><a href="#1-查漏补缺：" class="headerlink" title="1. 查漏补缺："></a>1. 查漏补缺：</h4><ul>
+<li>找出你在各科目中的薄弱环节，进行有针对性的复习和提高。</li>
+<li>多做一些专项练习和模拟测试，巩固基础知识。</li>
+</ul>
+<h4 id="2-制定学习计划："><a href="#2-制定学习计划：" class="headerlink" title="2. 制定学习计划："></a>2. 制定学习计划：</h4><ul>
+<li>制定一个合理的学习计划，平衡好各科目的学习时间。</li>
+<li>每天安排至少2小时的学习时间，保持持续的学习状态。</li>
+</ul>
+<h4 id="3-寻求帮助："><a href="#3-寻求帮助：" class="headerlink" title="3. 寻求帮助："></a>3. 寻求帮助：</h4><ul>
+<li>如果在学习过程中遇到困难，及时向老师请教。</li>
+<li>可以考虑请家教或参加辅导班，特别是针对薄弱科目。</li>
+</ul>
+<h4 id="4-保持良好心态："><a href="#4-保持良好心态：" class="headerlink" title="4. 保持良好心态："></a>4. 保持良好心态：</h4><ul>
+<li>鼓励你保持积极的心态，不要过度焦虑。</li>
+<li>定期进行适当的放松和休息，保持身体健康和精神状态良好。</li>
+</ul>
+<h2 id="鼓励措施"><a href="#鼓励措施" class="headerlink" title="鼓励措施"></a>鼓励措施</h2><p>为了给你更好的动力，爸爸妈妈和丹丹商量好了，每人给你666元鼓励金。只要你制定并执行以下学习计划：</p>
+<ul>
+<li>制定一个合理的学习计划，平衡好各科目的学习时间。</li>
+<li>每天安排至少2小时的学习时间，保持持续的学习状态。</li>
+<li>每晚12点前将手机交给丹丹，确保充足的休息时间。</li>
+<li>每天去图书馆进行自学，提高学习效率。(这是2个小时的学习时间)</li>
+</ul>
+<p>果果，你一直是一个聪明、善良、勤奋的孩子。我们知道高中阶段的学习很辛苦，竞争也非常激烈。我们希望你能继续保持积极的心态，找到自己薄弱的地方，进行有针对性的学习。记得合理安排时间，既要努力学习，也要注意休息，保持身体健康。学习的路上并不孤单，有老师、有同学，还有我们一直在你身边。</p>
+<p>果果，爸爸妈妈相信你有能力，也相信你有潜力取得更好的成绩。无论未来的路多么艰难，我们都会陪你一起走过。</p>
+<p>加油，果果！相信自己，我们相信你！</p>
+<p>爱你的爸爸妈妈</p>
+<hr>
+<p>我接受并承诺每天至少安排2小时的学习时间，每天去图书馆自学，并在每晚12点前将手机交给丹丹：</p>
+<p>签字：_________________</p>
+<p>日期：_________________</p>
+]]></content>
+  </entry>
+  <entry>
     <title>priority</title>
     <url>/2024/04/10/priority/</url>
     <content><![CDATA[<p>在一个遥远的王国里，住着一位名叫”皮皮”的王子。他有一个神奇的魔法盒子，每天只能变出一样东西。但是皮皮有个烦恼，他总是忘记自己最需要什么，经常变出一些无关紧要的东西。</p>
@@ -66,6 +134,13 @@
 <p>所以，”priority”这个词的意思是“优先事项”，就像皮皮要先变出水来解决王国的危机一样，我们需要先做最重要的事情。</p>
 <p>例句：</p>
 <p>在安排一天的工作时，我们应该确定哪些任务是优先事项。<br>在紧急情况下，保障人员安全是首要的优先事项。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>购车方案</title>
+    <url>/2024/04/28/qiyuan/</url>
+    <content><![CDATA[<p><img src="http://img.yaojian.cc/picgo/qiyuan01.png"></p>
+<p><img src="http://img.yaojian.cc/picgo/235235.jpg"></p>
 ]]></content>
   </entry>
   <entry>
@@ -93,6 +168,18 @@
 <p>代码风格和规范：遵循PEP 8代码风格指南，编写清晰、规范的Python代码。</p>
 <p>版本控制：了解如何使用Git进行版本控制，以便更好地管理代码变更和协作开发。</p>
 <p>通过掌握这些核心知识点，你将能够理解和解决大多数Python编程问题，并为深入学习更高级的主题打下坚实的基础。记住，实践是提高编程技能的关键，因此不断编写和改进代码是学习过程中不可或缺的一部分。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>配置vscode 远程开发+ 免密登录</title>
+    <url>/2024/05/15/ssh/</url>
+    <content><![CDATA[<p>先贴总结：</p>
+<p>本机安装ssh，check ssh是否安装成功： ssh 或者 ssh-V<br>2. vscode安装remote development 插件</p>
+<ol start="3">
+<li>配置密钥</li>
+</ol>
+<p>（1）在本地机器生成密钥对(公钥+私钥)：ssh-keygen<br>（2）私钥放本机，公钥放远程(~&#x2F;.ssh路径下)<br>（3）在远程机器用公钥生成authorized_keys：<br>进入home目录下的.ssh文件夹：cd ~&#x2F;.ssh<br>cat id_rsa.pub &gt;&gt; authorized_keys<br>（4）vscode config文件加入本机私钥路径</p>
+<p>来源：<a class="link"   href="https://zhuanlan.zhihu.com/p/222452460" >https://zhuanlan.zhihu.com/p/222452460<i class="fas fa-external-link-alt"></i></a></p>
 ]]></content>
   </entry>
   <entry>
@@ -182,90 +269,18 @@
 ]]></content>
   </entry>
   <entry>
-    <title>购车方案</title>
-    <url>/2024/04/28/qiyuan/</url>
-    <content><![CDATA[<p><img src="http://img.yaojian.cc/picgo/qiyuan01.png"></p>
-<p><img src="http://img.yaojian.cc/picgo/235235.jpg"></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>配置vscode 远程开发+ 免密登录</title>
-    <url>/2024/05/15/ssh/</url>
-    <content><![CDATA[<p>先贴总结：</p>
-<p>本机安装ssh，check ssh是否安装成功： ssh 或者 ssh-V<br>2. vscode安装remote development 插件</p>
-<ol start="3">
-<li>配置密钥</li>
-</ol>
-<p>（1）在本地机器生成密钥对(公钥+私钥)：ssh-keygen<br>（2）私钥放本机，公钥放远程(~&#x2F;.ssh路径下)<br>（3）在远程机器用公钥生成authorized_keys：<br>进入home目录下的.ssh文件夹：cd ~&#x2F;.ssh<br>cat id_rsa.pub &gt;&gt; authorized_keys<br>（4）vscode config文件加入本机私钥路径</p>
-<p>来源：<a class="link"   href="https://zhuanlan.zhihu.com/p/222452460" >https://zhuanlan.zhihu.com/p/222452460<i class="fas fa-external-link-alt"></i></a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>给果果的鼓励信</title>
-    <url>/2024/07/15/guoguo/</url>
-    <content><![CDATA[<h1 id="给果果的鼓励信"><a href="#给果果的鼓励信" class="headerlink" title="给果果的鼓励信"></a>给果果的鼓励信</h1><p>亲爱的果果，</p>
-<p>你好！</p>
-<p>首先，爸爸妈妈要为你取得的成绩感到骄傲。你一直以来的努力和付出，我们都看在眼里。虽然这次考试的成绩还不算顶尖，但你已经表现得很好了。我们知道，每一次的进步和每一次的努力，都是值得肯定的。</p>
-<p>为了帮助你更好地了解自己的成绩和下一步的方向，我们做了一个详细的成绩分析报告，希望能对你有所帮助。</p>
-<h2 id="成绩分析报告"><a href="#成绩分析报告" class="headerlink" title="成绩分析报告"></a>成绩分析报告</h2><h3 id="一、总体情况"><a href="#一、总体情况" class="headerlink" title="一、总体情况"></a>一、总体情况</h3><p>根据你的最新成绩单，以下是你的成绩情况：</p>
-<ul>
-<li>总分：476分（加权后）</li>
-<li>全市排名：23107名</li>
-<li>本校排名：127名</li>
-<li>本班排名：127名</li>
-</ul>
-<p>未加权前的总分为460分：</p>
-<ul>
-<li>全市排名：22818名</li>
-<li>本校排名：120名</li>
-<li>本班排名：120名</li>
-</ul>
-<h3 id="二、分数线对比"><a href="#二、分数线对比" class="headerlink" title="二、分数线对比"></a>二、分数线对比</h3><ul>
-<li>特殊类分数：445分</li>
-<li>本科批分数：358分</li>
-<li>总分平均分：421.2分</li>
-<li>总分最高分：693.5分</li>
-</ul>
-<p>你的最新成绩476分显著高于特殊类分数线445分和平均分421.2分。</p>
-<h3 id="三、优势与不足"><a href="#三、优势与不足" class="headerlink" title="三、优势与不足"></a>三、优势与不足</h3><h4 id="1-优势："><a href="#1-优势：" class="headerlink" title="1. 优势："></a>1. 优势：</h4><ul>
-<li>成绩显著高于总分平均分421.2分，说明基础较为扎实。</li>
-<li>在全市排名中位于前列，具备较强的竞争力。</li>
-</ul>
-<h4 id="2-不足："><a href="#2-不足：" class="headerlink" title="2. 不足："></a>2. 不足：</h4><ul>
-<li>在班级和学校中的排名仍有提升空间，尤其是在校内排名。</li>
-</ul>
-<h3 id="四、建议与计划"><a href="#四、建议与计划" class="headerlink" title="四、建议与计划"></a>四、建议与计划</h3><p>为了帮助你在接下来的学习中进一步提升成绩，以下是一些建议：</p>
-<h4 id="1-查漏补缺："><a href="#1-查漏补缺：" class="headerlink" title="1. 查漏补缺："></a>1. 查漏补缺：</h4><ul>
-<li>找出你在各科目中的薄弱环节，进行有针对性的复习和提高。</li>
-<li>多做一些专项练习和模拟测试，巩固基础知识。</li>
-</ul>
-<h4 id="2-制定学习计划："><a href="#2-制定学习计划：" class="headerlink" title="2. 制定学习计划："></a>2. 制定学习计划：</h4><ul>
-<li>制定一个合理的学习计划，平衡好各科目的学习时间。</li>
-<li>每天安排至少2小时的学习时间，保持持续的学习状态。</li>
-</ul>
-<h4 id="3-寻求帮助："><a href="#3-寻求帮助：" class="headerlink" title="3. 寻求帮助："></a>3. 寻求帮助：</h4><ul>
-<li>如果在学习过程中遇到困难，及时向老师请教。</li>
-<li>可以考虑请家教或参加辅导班，特别是针对薄弱科目。</li>
-</ul>
-<h4 id="4-保持良好心态："><a href="#4-保持良好心态：" class="headerlink" title="4. 保持良好心态："></a>4. 保持良好心态：</h4><ul>
-<li>鼓励你保持积极的心态，不要过度焦虑。</li>
-<li>定期进行适当的放松和休息，保持身体健康和精神状态良好。</li>
-</ul>
-<h2 id="鼓励措施"><a href="#鼓励措施" class="headerlink" title="鼓励措施"></a>鼓励措施</h2><p>为了给你更好的动力，爸爸妈妈和丹丹商量好了，每人给你666元鼓励金。只要你制定并执行以下学习计划：</p>
-<ul>
-<li>制定一个合理的学习计划，平衡好各科目的学习时间。</li>
-<li>每天安排至少2小时的学习时间，保持持续的学习状态。</li>
-<li>每晚12点前将手机交给丹丹，确保充足的休息时间。</li>
-<li>每天去图书馆进行自学，提高学习效率。(这是2个小时的学习时间)</li>
-</ul>
-<p>果果，你一直是一个聪明、善良、勤奋的孩子。我们知道高中阶段的学习很辛苦，竞争也非常激烈。我们希望你能继续保持积极的心态，找到自己薄弱的地方，进行有针对性的学习。记得合理安排时间，既要努力学习，也要注意休息，保持身体健康。学习的路上并不孤单，有老师、有同学，还有我们一直在你身边。</p>
-<p>果果，爸爸妈妈相信你有能力，也相信你有潜力取得更好的成绩。无论未来的路多么艰难，我们都会陪你一起走过。</p>
-<p>加油，果果！相信自己，我们相信你！</p>
-<p>爱你的爸爸妈妈</p>
-<hr>
-<p>我接受并承诺每天至少安排2小时的学习时间，每天去图书馆自学，并在每晚12点前将手机交给丹丹：</p>
-<p>签字：_________________</p>
-<p>日期：_________________</p>
+    <title>hexo解决方案</title>
+    <url>/2026/05/10/questions/</url>
+    <content><![CDATA[<p>1.使用hexo s 启动失败时：</p>
+<p>高级排查：重启 Windows NAT 服务（WinNAT）<br>如果上述所有方法均无效，问题可能与 Windows 的网络地址转换服务冲突有关</p>
+<p>您可以尝试重启该服务：</p>
+<p>以管理员身份打开命令提示符。<br>执行以下命令停止 WinNAT 服务：</p>
+<pre><code>net stop winnat
+</code></pre>
+<p>稍后，执行以下命令重新启动 WinNAT 服务：</p>
+<pre><code>net start winnat
+</code></pre>
+<p>重新尝试启动 Hexo 服务器</p>
 ]]></content>
   </entry>
 </search>
